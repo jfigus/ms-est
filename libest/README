@@ -1,0 +1,4 @@
+﻿This is a derivation of libest, which has been modified to compile under
+Visual Studio 2010 C++ for the Windows environment.  The client-side
+and proxy mode support in libest has been removed.  This libest only
+supports server side-operation.
