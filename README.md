@@ -4,9 +4,7 @@ ms-est
 This project is a experimental EST server that runs on Windows and uses the Microsoft
 Certificate Services API to enroll certificates.  This is a minimal EST server
 based on the libest project (https://github.com/cisco/libest).  The libest source
-was ported to Windows and compiled using Visual Studio 2010 C++.  Currently only
-the binary is released.  Please let me know if you use this experimental EST server.
-If there's interest, I'll release the source code for the server.  
+was ported to Windows and compiled using Visual Studio 2010 C++.  
 
 This EST server has significant limitations.  Keep in mind this server was coded
 quickly under the hack-a-thon approach.  It's been tested to run on Windows Server
